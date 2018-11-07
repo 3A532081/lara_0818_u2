@@ -3,7 +3,7 @@
 <title>@yield('title')|MyBlog</title>
 </head>
 <body>
-<divclass="container">
+<div class="container">
 @yield('content')
 </div>
 </body>
